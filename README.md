@@ -8,6 +8,12 @@ I happen to live under a rock, so I hadn't actually seen *Money Ball* until very
 
 I'm not sure. But one metric which is difficult to argue against is whether or not someone's made it to the Probowl. It may not be perfect, and it may not work at all, but let's give it a shot and see where it takes us.
 
-To get started, first thing we need is data. After looking around the web a bit, I found that http://www.pro-football-reference.com/ has some pretty easily accessible (and machine readable) table data available on the Combine results and also historic probowl data.
+In this repo, so far I've set up the following notebooks:
 
-So the question is pretty clear, could we predict, based on Combine metrics alone, which player, by position will most likely become a probowler? Let's find out..
+1. The Scraping Web Data notebook shows from where and how I scraped the data set that I'm analyzing.
+
+2. The Data Exploration notebook does some basic analysis and visualizations on the data.
+
+3. .. More to be added later..! 
+
+Eventually, I would like to see if we can predict, based on Combine metrics alone, which player by position will most likely become an NFL probowler. Follow the github if you're curious!
