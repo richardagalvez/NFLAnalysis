@@ -14,8 +14,4 @@ In this repo, so far I've set up the following notebooks:
 
 2. The Data Exploration notebook does some basic analysis and visualizations on the data.
 
-3. A preliminary notebook looking at the quarterback position.
-
-4. .. More to be added later..! 
-
-Eventually, I would like to see if we can predict, based on Combine metrics alone, which player by position will most likely become an NFL probowler. Follow the github if you're curious! This is work very much in progress.
+3. An analysis on the 2017 draft (in progress)
